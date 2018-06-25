@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xwt.Common", "Xwt.Common\Xwt.Common.csproj", "{5F2C9DF0-FAAC-45B1-8D24-557E67C573C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xwt.Windows", "Xwt.Windows\Xwt.Windows.csproj", "{1E0E553F-3376-4F0B-8203-FB44BB76D732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F2C9DF0-FAAC-45B1-8D24-557E67C573C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2C9DF0-FAAC-45B1-8D24-557E67C573C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2C9DF0-FAAC-45B1-8D24-557E67C573C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2C9DF0-FAAC-45B1-8D24-557E67C573C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E0E553F-3376-4F0B-8203-FB44BB76D732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0E553F-3376-4F0B-8203-FB44BB76D732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0E553F-3376-4F0B-8203-FB44BB76D732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0E553F-3376-4F0B-8203-FB44BB76D732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6D7196B-89C3-45FF-9030-11F8D12D54CF}
+	EndGlobalSection
+EndGlobal

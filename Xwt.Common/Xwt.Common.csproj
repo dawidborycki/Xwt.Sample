@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xwt" Version="0.2.111" />
+    <PackageReference Include="Xwt.Wpf" Version="0.2.111" />
+  </ItemGroup>
+
+</Project>
