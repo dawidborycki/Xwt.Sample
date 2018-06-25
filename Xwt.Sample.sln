@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xwt.Common", "Xwt.Common\Xw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xwt.Windows", "Xwt.Windows\Xwt.Windows.csproj", "{1E0E553F-3376-4F0B-8203-FB44BB76D732}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xwt.Mac", "..\Cloud\OneDrive\Temp\Xwt\Xwt.Sample\Xwt.Mac\Xwt.Mac.csproj", "{987D83AB-E680-4533-AD17-7139B36F5397}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1E0E553F-3376-4F0B-8203-FB44BB76D732}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E0E553F-3376-4F0B-8203-FB44BB76D732}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E0E553F-3376-4F0B-8203-FB44BB76D732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{987D83AB-E680-4533-AD17-7139B36F5397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987D83AB-E680-4533-AD17-7139B36F5397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987D83AB-E680-4533-AD17-7139B36F5397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987D83AB-E680-4533-AD17-7139B36F5397}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
